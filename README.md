@@ -1,4 +1,4 @@
 # FIZ437E
-A repository open for school use. 
+A repository opened for school use only. 
 
 2021 İstanbul Technical University
