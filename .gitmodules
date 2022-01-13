@@ -1,0 +1,3 @@
+[submodule "Term"]
+	path = Term
+	url = git@github.com:erdiari/FIZ437E-TermProject.git
